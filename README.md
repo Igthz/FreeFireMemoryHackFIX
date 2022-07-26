@@ -1,4 +1,5 @@
 # FreeFireMemoryHackFIX
+# Support [discord](https://discord.gg/axzhmjVUFE).
 > Um Simples hack de FreeFire que eu ja tinha postado, mais essa versao tem algumas coisas a mais kkkk
 # Avisos
 > Para Voce Conseguir executar o cheat, tem que deixar as dlls na msm pasta do .exe
